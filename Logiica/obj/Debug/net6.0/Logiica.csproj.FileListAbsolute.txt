@@ -1,0 +1,34 @@
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Logiica.deps.json
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Logiica.dll
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Logiica.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Datos.dll
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Entidad.dll
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Datos.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\bin\Debug\net6.0\Entidad.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.csproj.AssemblyReference.cache
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.AssemblyInfoInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.AssemblyInfo.cs
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.csproj.CopyComplete
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.dll
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\refint\Logiica.dll
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\Logiica.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Logiica\obj\Debug\net6.0\ref\Logiica.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.csproj.AssemblyReference.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.AssemblyInfoInputs.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.AssemblyInfo.cs
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.csproj.CoreCompileInputs.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\refint\Logiica.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Logiica.deps.json
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Logiica.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Logiica.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Datos.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Entidad.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Datos.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\bin\Debug\net6.0\Entidad.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\Logiica.csproj.CopyComplete
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Logiica\obj\Debug\net6.0\ref\Logiica.dll

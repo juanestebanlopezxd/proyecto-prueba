@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datos.dll": {}
+        }
+      },
+      "Entidad/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidad.dll": {}
+        }
+      },
+      "Test3/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Test3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Test3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datos/1.0.0": {
+      "type": "project",
+      "path": "../Datos/Datos.csproj",
+      "msbuildProject": "../Datos/Datos.csproj"
+    },
+    "Entidad/1.0.0": {
+      "type": "project",
+      "path": "../Entidad/Entidad.csproj",
+      "msbuildProject": "../Entidad/Entidad.csproj"
+    },
+    "Test3/1.0.0": {
+      "type": "project",
+      "path": "../Test3/Test3.csproj",
+      "msbuildProject": "../Test3/Test3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Datos >= 1.0.0",
+      "Entidad >= 1.0.0",
+      "Test3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Intel Core i7\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Logica\\Logica.csproj",
+      "projectName": "Logica",
+      "projectPath": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Logica\\Logica.csproj",
+      "packagesPath": "C:\\Users\\Intel Core i7\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Logica\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Intel Core i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Datos\\Datos.csproj"
+            },
+            "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Entidad\\Entidad.csproj"
+            },
+            "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Test3\\Test3.csproj": {
+              "projectPath": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Test3\\Test3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Test3 no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El proyecto Test3 admite: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Test3",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

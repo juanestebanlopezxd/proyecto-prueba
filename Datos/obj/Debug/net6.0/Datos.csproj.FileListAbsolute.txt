@@ -1,0 +1,30 @@
+C:\Users\Intel Core i7\source\repos\Test3\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Intel Core i7\source\repos\Test3\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Intel Core i7\source\repos\Test3\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Datos\bin\Debug\net6.0\Entidad.dll
+C:\Users\Intel Core i7\source\repos\Test3\Datos\bin\Debug\net6.0\Entidad.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\bin\Debug\net6.0\Entidad.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\bin\Debug\net6.0\Entidad.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Datos\obj\Debug\net6.0\ref\Datos.dll

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkqdLafLvo05e9GRGBKLdzha64n4f4UwFfXtVKHT/zpxNBPkqDIifrrtLNN+wXfEoZZBbnChGR8LuoI0ER28Hw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Intel Core i7\\source\\repos\\Test3\\Logica\\Logica.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Test3 no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El proyecto Test3 admite: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Test3",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

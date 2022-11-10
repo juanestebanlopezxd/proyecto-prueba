@@ -1,0 +1,56 @@
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.exe
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.deps.json
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.runtimeconfig.json
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.AssemblyReference.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.Form1.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.GenerateResource.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfoInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfo.cs
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\refint\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.genruntimeconfig.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\ref\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Entidad.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Entidad.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CopyComplete
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.FormSalones.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.materias.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.Grupos.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Logiica.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Logiica.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.Alumno.resources
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Test3.exe
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Test3.deps.json
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Test3.runtimeconfig.json
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Test3.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Test3.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Entidad.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Logiica.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Entidad.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\bin\Debug\net6.0-windows\Logiica.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.AssemblyReference.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.Alumno.resources
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.Form1.resources
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.FormSalones.resources
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.Grupos.resources
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.materias.resources
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.GenerateResource.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfoInputs.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfo.cs
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CoreCompileInputs.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CopyComplete
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\refint\Test3.dll
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.pdb
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\Test3.genruntimeconfig.cache
+C:\Users\JUAN ESTEBAN\Downloads\Test3\Test3\obj\Debug\net6.0-windows\ref\Test3.dll
